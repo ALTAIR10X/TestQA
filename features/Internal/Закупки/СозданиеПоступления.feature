@@ -1,6 +1,7 @@
 ﻿#language: ru
-
-@tree
+@Закупки
+@ExportScenarios
+@IgnoreOnCIMainBild
 
 Функционал: Создание поступления
 
